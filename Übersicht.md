@@ -9,6 +9,9 @@
 | CTRL + r          | erlaubt das suchen letzter Befehle CTRL + r nochmal für nächsten Treffer |
 | CTRL + k          | Löscht alles hinter der aktuellen Cursor Position                        |
 | CTRL + ⬅️ / ➡️    | Lässt den Cursor wortweise springen                                      |
+
+# Grundwissen
+
 # Befehle
 ## Grundbefehle
 
@@ -20,8 +23,8 @@
 | [man (**man**uel)](man.md)                | Gibt die Developer Beschreibung für den Befehl der dahinter steht. |
 | pwd (**p**rint **w**orking **d**irectory) | Gibt den vollen Dateipfad an von dem wo man gerade ist.            |
 | [ls (**l**i**s**t)](ls.md)                | Zeigt alle Dateien an die in dem gegeben Pfad liegen.              |
-| cd (**c**hange **d**irectory)             | Wechselt das Arbeitsverzeichnis zu dem gegeben Pfad.               |
-| cp (**c**o**p**y)                         | Kopiert den ersten pfad in den zweiten.                            |
-| mv (**m**ove)                             | Verschiebt den ersten pfad / datei zu dem zweiten.                 |
-| rm (**r**e**m**ove)                       | Löscht die gegebene Datei.                                         |
-| mkdir (Make directory)                    | Erstellt ein Verzeichnis.                                          |
+| [cd (**c**hange **d**irectory)](cd.md)    | Wechselt das Arbeitsverzeichnis zu dem gegeben Pfad.               |
+| [cp (**c**o**p**y)](cp.md)                | Kopiert den ersten pfad in den zweiten.                            |
+| [mv (**m**ove)](mv.md)                    | Verschiebt den ersten pfad / datei zu dem zweiten.                 |
+| [rm (**r**e**m**ove)](rm.md)              | Löscht die gegebene Datei.                                         |
+| [mkdir (Make directory)](mkdir.md)        | Erstellt ein Verzeichnis.                                          |
