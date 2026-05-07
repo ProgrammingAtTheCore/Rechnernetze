@@ -1,9 +1,9 @@
-### Beschreibung
+# Beschreibung
 Dient dazu, Dateien oder ganze Verzeichnisse dauerhaft zu löschen (remove). Standardmäßig löscht `rm` nur Dateien und weigert sich, Verzeichnisse zu entfernen.
 
 >[!NOTE]
 >Alle Beispiele arbeiten damit das die [Working Directory](<Verzeichnis Struktur.md#Arbeitsverzeichnis>) auf `Users/User/Beispiel_Ordner/`gesetzt ist
-### Argumente
+# Argumente
 
 | Argument | Funktion                                                                                                                                  |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |

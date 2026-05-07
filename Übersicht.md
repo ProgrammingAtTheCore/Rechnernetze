@@ -19,7 +19,7 @@
 | ----------------------------------------- | ------------------------------------------------------------------ |
 | history                                   | Zeigt alle zuletzt benutzen Befehle an. (Maximal 1000)             |
 | clear                                     | Leert den Inhalt des Bildschirms                                   |
-| echo                                      | Gibt den Inhalt dahinter in der Konsole aus.                       |
+| [echo](echo.md)                           | Gibt den Inhalt dahinter in der Konsole aus.                       |
 | [man (**man**uel)](man.md)                | Gibt die Developer Beschreibung für den Befehl der dahinter steht. |
 | pwd (**p**rint **w**orking **d**irectory) | Gibt den vollen Dateipfad an von dem wo man gerade ist.            |
 | [ls (**l**i**s**t)](ls.md)                | Zeigt alle Dateien an die in dem gegeben Pfad liegen.              |

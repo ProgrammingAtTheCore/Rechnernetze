@@ -64,8 +64,8 @@ Listet Dateien im "Long Format" heißt es werden weitere Informationen gezeigt w
 Die Informationen sind wie folgt geordnet.
 - Typ (- für Datei, d für Verzeichnis (Directory))
 - [Berechtigung](Dateiberechtigung.md)
-- [Besitzer](Dateiberechtigung.)
-- [Gruppe](Dateiberechtigung.)
+- [Besitzer](Dateiberechtigung.md)
+- [Gruppe](Dateiberechtigung.md)
 - Dateigröße (angegeben in bytes)
 - Änderungsdatum
 - Dateiname

@@ -3,6 +3,7 @@ Dient dazu, neue, leere Verzeichnisse (Ordner) zu erstellen. Der Name steht kurz
 
 >[!NOTE]
 >Alle Beispiele arbeiten damit das die [Working Directory](<Verzeichnis Struktur.md#Arbeitsverzeichnis>) auf `Users/User/Beispiel_Ordner/`gesetzt ist
+
 # Basis-Nutzung (Verzeichnis erstellen)
 Wir haben folgendes Verzeichnis `User/User/Beispiel_Ordner`, das wie folgt aussieht:
 ```bash
