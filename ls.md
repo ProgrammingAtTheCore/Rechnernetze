@@ -5,10 +5,11 @@ Dient dazu alle Dateien / Verzeichnisse des gegebenen Pfad anzuzeigen.
 
 | Argument  | Funktion                                                                                                                                                  |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [-a](#-a) | Listet sowohl alle normalen Dateien an als auch [versteckte Datei](<versteckte Datei.md>) an.                                                             |
+| [-a](#-a) | Listet sowohl alle normalen Dateien an als auch [versteckte Datei](<Verzeichnis Struktur.md#Versteckte Dateien und Verzeichnisse>) an.                    |
 | [-l](#-l) | Listet Dateien in einem "Long Format" heißt es werden weitere Informationen gezeigt wie [Berechtigungen](Dateiberechtigung.md) und Größe (Speicherplatz). |
 | [-h](#-h) | Nur in Kombination mit [-l](#-l) zu benutzen zeigt die Datei Größe in Byte (B), Kilobyte (K) etc.                                                         |
 | [-r](#-r) | Reverse output kehrt die Reihenfolge um.                                                                                                                  |
+|           |                                                                                                                                                           |
 
 Weitere Argumente sowie alle bisher genannten sind in der ls [man Page](man.md) einzusehen. 
 

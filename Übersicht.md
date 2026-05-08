@@ -11,6 +11,12 @@
 | CTRL + ⬅️ / ➡️    | Lässt den Cursor wortweise springen                                      |
 
 # Grundwissen
+## [Verzeichnisstruktur](<Verzeichnis Struktur>)
+Systeme die auf Linus basiert sind bestehen nur aus Dateien und das System startet mit `/`
+Es gibt zwei arten von Verzeichnissen:
+- Absolute Verzeichnisse (starten immer mit `/`)
+- Relative Verzeichnisse (haben kein `/` am Anfang und beziehen sich auf [Working Directory](<Verzeichnis Struktur.md#Arbeitsverzeichnis>))
+Weitere informationen [hier](<Verzeichnis Struktur>).
 
 # Befehle
 ## Grundbefehle
